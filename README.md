@@ -2,7 +2,7 @@
 
 ### [fullstackmean.com](http://fullstackmean.com)
 
-This is the code for the example application/s built as a part of one of our courses, Masteringv MEAN Web Development. Fancy learning more about the MEAN stack, and full-stack web development in general? Visit [MasteringMEAN](http://masteringmean.com) today!
+This is the code for the example application/s built as a part of one of our courses, Mastering MEAN Web Development. Fancy learning more about the MEAN stack, and full-stack web development in general? Visit [MasteringMEAN](http://masteringmean.com) today!
 
 ## Information About the Demo
 
