@@ -1,6 +1,9 @@
-# meancompany
+#Mastering MEAN Web Development
 
-## Demo
+This is the code for the example application/s built as a part of one of our courses, Masteringv MEAN Web Development. Fancy learning more about the MEAN stack, and full-stack web development in general? Visit [MasteringMEAN](http://masteringmean.com) today!
+
+## Information About the Demo
+
 NOTE: replace all 'http' with 'https' if using 'https' (set in `config.json`)
 - [Website](http://162.243.148.119:3000/)
 - [Continuous Integration](http://162.243.148.119:3010/)
